@@ -18,7 +18,7 @@
         // Variables need a '$'. They are not strongly typed
         $name = 'Robert Stephenson';
         $age = 39;
-        $address = 'No weh road, kingston something';
+        $address = 'No road, kingston something';
         // echo variable
         echo $name;
         echo '<h1>My Name Is: '.$name.' </h1>';

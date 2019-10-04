@@ -18,12 +18,12 @@
         // Variables need a '$'. They are not strongly typed
         $name = 'Robert Stephenson';
         $age = 39;
-        $address = 'No road, kingston something';
+        $address = 'No weh road, kingston something';
         // echo variable
         echo $name;
         echo '<h1>My Name Is: '.$name.' </h1>';
         echo '<h1>My Age Is: '.$age.' </h1>';
-        echo '<h1>My address Is: '.$address.' </h1>';
+        echo '<h1>My Address Is: '.$address.' </h1>';
         
         // Echo using double quotes and interpolation
         echo "<h1>My Name is: $name </h1>";

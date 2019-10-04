@@ -6,9 +6,9 @@
     <?php 
     //Concatenation of strings
         $phrase1 = "student who came late";
-        $phrase2 = "in class, stand with Rock";
+        $phrase2 = "to class will be locked out";
         $name = "Robert Stephenson";
-        echo $phrase1 . ", named Tiffany, ". $phrase2;
+        echo $phrase1 . ", on Friday morning, ". $phrase2;
         echo '<br/>';
         echo '<hr/>';
         //String tansformation
